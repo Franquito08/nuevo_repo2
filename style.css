@@ -16,3 +16,7 @@ nav ul{
     color: blueviolet;
     background-color: yellow;
 }
+
+section p {
+    font-family: 'Courier New', Courier, monospace;
+}
